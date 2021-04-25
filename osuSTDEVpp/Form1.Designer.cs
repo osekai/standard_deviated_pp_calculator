@@ -250,7 +250,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "osuSTDEVpp";
-            this.Text = "Standard Deviated PP Calculator";
+            this.Text = "Standard Deviated PP Calculator V1.0.1";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
