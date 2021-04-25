@@ -1,0 +1,10 @@
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Release\osuSTDEVpp.csprojAssemblyReference.cache
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Release\osuSTDEVpp.osuSTDEVpp.resources
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Release\osuSTDEVpp.Properties.Resources.resources
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Release\osuSTDEVpp.csproj.GenerateResource.cache
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Release\osuSTDEVpp.csproj.CoreCompileInputs.cache
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Release\Osekai SPP Calculator.exe.config
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Release\Osekai SPP Calculator.exe
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Release\Osekai SPP Calculator.pdb
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Release\Osekai SPP Calculator.exe
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Release\Osekai SPP Calculator.pdb

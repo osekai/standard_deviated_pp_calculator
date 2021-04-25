@@ -7,7 +7,7 @@
     <ProjectGuid>{26804CD2-537D-4056-B882-0FFF43A69000}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>osuSTDEVpp</RootNamespace>
-    <AssemblyName>Standard Deviated PP Calculator</AssemblyName>
+    <AssemblyName>Osekai SPP Calculator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

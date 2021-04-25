@@ -64,9 +64,9 @@ namespace osuSTDEVpp
         }
         private void whatsStandardDeviatedPPToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Standard Deviated PP are a method of ranking players that play all 4 gamemodes of osu!\n\n" +
+            MessageBox.Show("Standard Deviated PP is a fairer method of ranking players that play all 4 gamemodes of osu!\n\n" +
                             "The formula is: \"Totalpp - stdev.s*2\"\n\n" +
-                            "If you want to know more about what standard deviation is, I suggest googling it(khanacademy.org has a very easy to understand explaination if you can find it)");
+                            "If you want to know more about what standard deviation is, I suggest googling it (khanacademy.org has a very easy to understand explaination if you can find it)");
         }
         //Code in region allows pressing enter on Textboxes
         #region

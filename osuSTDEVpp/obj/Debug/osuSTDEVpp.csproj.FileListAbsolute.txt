@@ -3,8 +3,8 @@ C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Debug\osuSTDEVpp.osuSTDEVp
 C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Debug\osuSTDEVpp.Properties.Resources.resources
 C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Debug\osuSTDEVpp.csproj.GenerateResource.cache
 C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Debug\osuSTDEVpp.csproj.CoreCompileInputs.cache
-C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Debug\Standard Deviated PP Calculator.exe.config
-C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Debug\Standard Deviated PP Calculator.exe
-C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Debug\Standard Deviated PP Calculator.pdb
-C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Debug\Standard Deviated PP Calculator.exe
-C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Debug\Standard Deviated PP Calculator.pdb
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Debug\Osekai SPP Calculator.exe.config
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Debug\Osekai SPP Calculator.exe
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\bin\Debug\Osekai SPP Calculator.pdb
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Debug\Osekai SPP Calculator.exe
+C:\Users\sagon\source\repos\osuSTDEVpp\osuSTDEVpp\obj\Debug\Osekai SPP Calculator.pdb
