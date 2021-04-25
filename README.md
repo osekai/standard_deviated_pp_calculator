@@ -1,4 +1,4 @@
 # Standard Deviated PP Calculator
-this is to calculate pp using the standard deviated pp system.
+This programm is used to calculate your PP using standard deviation.
 
-written by Remyria
+Written by Remyria
